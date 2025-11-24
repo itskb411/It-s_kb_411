@@ -27,13 +27,8 @@
 
 ---
 
-## 🎵 Music Player
-Click to play (GitHub doesn’t autoplay):
 
-<iframe style="border-radius:12px" 
-src="https://soundcloud.com/khambusha/surah_al-hijr_by_umair_shamim" 
-width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; 
-encrypted-media; fullscreen; picture-in-picture"></iframe>
+https://soundcloud.com/khambusha/surah_al-hijr_by_umair_shamim
 
 ---
 
