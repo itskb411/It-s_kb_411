@@ -45,5 +45,5 @@ encrypted-media; fullscreen; picture-in-picture"></iframe>
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="50%"/>
+  <img src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" width="100%"/>
 </p>
